@@ -1,0 +1,41 @@
+key,label,script,description
+coef_ref_period_t_bin,Figure 6 (panel 1),05_coefficients.R,Hottest-bin coefficient of t by country and reference period
+coef_ref_period_spei6_bin,Figure 6 (panel 2),05_coefficients.R,Driest-bin coefficient of SPEI by country and reference period
+coef_interactions_t,Figure 7,05_coefficients.R,Interaction of the hottest bin of t with four moderators
+coef_ref_period_t_cont,Figure C1,05_coefficients.R,Coefficient of continuous t by country and reference period
+coef_ref_period_t_cust,Figure C2,05_coefficients.R,Hottest custom-bin coefficient of t by country and reference period
+coef_ref_period_spei6_cont,Figure C3,05_coefficients.R,Coefficient of continuous SPEI by country and reference period
+coef_ref_period_spei6_cust,Figure C4,05_coefficients.R,Driest custom-bin coefficient of SPEI by country and reference period
+survey_map,Figure 2,01_map.R,Number of surveys per country on a world map
+survey_months_locations,Figure A1,03_sample_figures.R,Interview months against geocoded locations by survey wave
+survey_welfare_metrics,Figure A2,03_sample_figures.R,Mean and median welfare Gini and poverty rates by wave
+survey_policy_variables,Figure A3,03_sample_figures.R,Electricity water and sanitation and secondary education by wave
+weather_survey_mean_temperature_12m,Figure B1 (panel 1),04_weather_figures.R,Survey mean temperature variables against the 1991-2020 mean (12 months)
+weather_survey_mean_precipitation_12m,Figure B1 (panel 2),04_weather_figures.R,Survey mean precipitation variables against the 1991-2020 mean (12 months)
+weather_survey_mean_temperature_3m,Figure B1 (panel 3),04_weather_figures.R,Survey mean temperature variables against the 1991-2020 mean (3 months)
+weather_survey_mean_precipitation_3m,Figure B1 (panel 4),04_weather_figures.R,Survey mean precipitation variables against the 1991-2020 mean (3 months)
+weather_distribution_temperature_3m,Figure B2 (panel 1),04_weather_figures.R,Survey and reference period temperature distribution (3 months)
+weather_distribution_precipitation_3m,Figure B2 (panel 2),04_weather_figures.R,Survey and reference period precipitation distribution (3 months)
+table_survey_waves,Table A1,02_sample_tables.R,Survey waves: households locations weather match interview months
+table_interview_dates_cases,Table F1,02_sample_tables.R,SEN MWI BRA: households months locations households matched
+interview_incidence,Figure F1,02_sample_tables.R,Monthly interview incidence in SEN MWI BRA
+rif_profile_t_selected,Figure 8,06_rif_profiles.R,RIF top-bin profile of t in BRA COL ZMB
+rif_profile_t_electricity_selected,Figure 9,06_rif_profiles.R,RIF top-bin x electricity profile in COL MWI TGO
+rif_profile_t_all,Figure C6,06_rif_profiles.R,RIF top-bin profile of t all countries
+rif_profile_spei6_all,Figure C7,06_rif_profiles.R,RIF driest-bin profile of SPEI all countries
+rif_profile_t_electricity_all,Figure C8,06_rif_profiles.R,RIF top-bin x electricity profile all countries
+rif_group_electricity_sen,Figure 12,06_rif_profiles.R,SEN RIF top-bin profile by electricity access
+rif_group_secondary_education_mwi,Figure 16,06_rif_profiles.R,MWI RIF top-bin profile by secondary education
+rif_group_urban_bra,Figure 19,06_rif_profiles.R,BRA RIF top-bin profile by urban and rural
+regional_climate_median_welfare,Figure 10 (panel 1),07_regional_sims.R,Relative change in median welfare SSP3 2030 against historical
+regional_climate_poverty_300,Figure 10 (panel 2),07_regional_sims.R,Relative change in poverty at 3.00 SSP3 2030 against historical
+regional_poverty_electricity,Figure 11,07_regional_sims.R,Poverty relative to historical with universal electricity and without
+regional_poverty_water_sanitation,Figure 14,07_regional_sims.R,Poverty relative to historical with universal water and sanitation and without
+regional_poverty_secondary_education,Figure 15,07_regional_sims.R,Poverty relative to historical with universal secondary education and without
+regional_poverty_cash_transfer,Figure 18,07_regional_sims.R,Poverty relative to historical with a cash transfer and without
+regional_climate_poverty_830,Figure C5 (panel 1),07_regional_sims.R,Relative change in poverty at 8.30 SSP3 2030 against historical
+regional_climate_gini_830,Figure C5 (panel 2),07_regional_sims.R,Relative change in Gini SSP3 2030 against historical
+decomposition_electricity_sen,Figure 13,08_decomposition.R,SEN decile decomposition of universal electricity in the 1-in-20 year
+decomposition_secondary_education_mwi,Figure 17,08_decomposition.R,MWI decile decomposition of universal secondary education in the 1-in-20 year
+exceedance_poverty_830_bra,Figure 20,09_exceedance.R,BRA exceedance curves of poverty at 8.30 with and without a cash transfer
+intext_numbers,In-text numbers,10_intext_numbers.R,Every analysis number quoted in the text

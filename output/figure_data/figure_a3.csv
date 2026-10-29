@@ -1,0 +1,166 @@
+"code","year","variable","share","low_coverage"
+"TCD",2018,"Electricity access",0.10023816816123,FALSE
+"TCD",2022,"Electricity access",0.0560290034309727,FALSE
+"MWI",2010,"Electricity access",0.0821865679951566,FALSE
+"MWI",2016,"Electricity access",0.108593106764096,FALSE
+"MWI",2019,"Electricity access",0.112426035923554,FALSE
+"NER",2011,"Electricity access",0,FALSE
+"NER",2014,"Electricity access",0.129739944120282,FALSE
+"NER",2018,"Electricity access",0.212568327430295,FALSE
+"NER",2021,"Electricity access",0.256805461118193,FALSE
+"ZMB",2015,"Electricity access",0.307861534238434,FALSE
+"ZMB",2022,"Electricity access",0.548648547525997,FALSE
+"BFA",2018,"Electricity access",0.528022294755158,FALSE
+"BFA",2021,"Electricity access",0.647418253540495,FALSE
+"BEN",2018,"Electricity access",0.457273547309367,FALSE
+"BEN",2021,"Electricity access",0.651816963278945,FALSE
+"TGO",2018,"Electricity access",0.525842175176501,FALSE
+"TGO",2021,"Electricity access",0.678967710748362,FALSE
+"SEN",2018,"Electricity access",0.734361847718615,FALSE
+"SEN",2021,"Electricity access",0.706198733761499,FALSE
+"GMB",2015,"Electricity access",0.920334977066548,FALSE
+"GMB",2020,"Electricity access",0.70939116525359,FALSE
+"GNB",2018,"Electricity access",0.578522205548047,FALSE
+"GNB",2021,"Electricity access",0.724132538377281,FALSE
+"MRT",2014,"Electricity access",0.459238325715839,FALSE
+"MRT",2019,"Electricity access",0.802439479545024,FALSE
+"MLI",2018,"Electricity access",0.761478849487662,FALSE
+"MLI",2021,"Electricity access",0.836863249492857,FALSE
+"GTM",2006,"Electricity access",0.817202656340959,FALSE
+"GTM",2014,"Electricity access",0.834684460610117,FALSE
+"GTM",2023,"Electricity access",0.881571917967817,FALSE
+"CIV",2018,"Electricity access",0.819011700405755,FALSE
+"CIV",2021,"Electricity access",0.907390325232238,FALSE
+"LKA",2012,"Electricity access",0.912173237971059,FALSE
+"LKA",2016,"Electricity access",0.97530981624095,FALSE
+"COL",2008,"Electricity access",0.965609126763865,FALSE
+"COL",2018,"Electricity access",0.985191555906289,FALSE
+"VNM",2010,"Electricity access",0.981328734347933,FALSE
+"VNM",2012,"Electricity access",0.983973579956558,FALSE
+"VNM",2014,"Electricity access",0.991068882968585,FALSE
+"VNM",2016,"Electricity access",0.991956389667426,FALSE
+"VNM",2018,"Electricity access",0.995961177985334,FALSE
+"VNM",2020,"Electricity access",0.997250082357538,FALSE
+"VNM",2022,"Electricity access",0.999202674763687,FALSE
+"IRN",2013,"Electricity access",0.99884692360857,FALSE
+"IRN",2014,"Electricity access",0.999664856974818,FALSE
+"IRN",2015,"Electricity access",0.99973272997421,FALSE
+"IRN",2016,"Electricity access",0.999728222116677,FALSE
+"IRN",2017,"Electricity access",0.999701227243135,FALSE
+"IRN",2018,"Electricity access",0.999652361314946,FALSE
+"IRN",2019,"Electricity access",0.999867568495598,FALSE
+"IRN",2020,"Electricity access",0.999744767565008,FALSE
+"IND",2009,"Electricity access",0.722735144305511,FALSE
+"IND",2011,"Electricity access",0.786993747833285,FALSE
+"IND",2019,"Electricity access",NA,TRUE
+"IND",2020,"Electricity access",NA,TRUE
+"IND",2021,"Electricity access",NA,TRUE
+"TCD",2018,"Improved water & sanitation",0.108434920093437,FALSE
+"TCD",2022,"Improved water & sanitation",0.0363476484691065,FALSE
+"MWI",2010,"Improved water & sanitation",0.401925780681098,FALSE
+"MWI",2016,"Improved water & sanitation",0.454696051479353,FALSE
+"MWI",2019,"Improved water & sanitation",0.226444419044427,FALSE
+"NER",2011,"Improved water & sanitation",0.0854061413575039,FALSE
+"NER",2014,"Improved water & sanitation",0.152981424956905,FALSE
+"NER",2018,"Improved water & sanitation",0.134065604605551,FALSE
+"NER",2021,"Improved water & sanitation",0.150551249291199,FALSE
+"ZMB",2015,"Improved water & sanitation",0.335799919776889,FALSE
+"ZMB",2022,"Improved water & sanitation",0.404443175003047,FALSE
+"BFA",2018,"Improved water & sanitation",0.262673237642794,FALSE
+"BFA",2021,"Improved water & sanitation",0.353249413658394,FALSE
+"BEN",2018,"Improved water & sanitation",0.173264816218689,FALSE
+"BEN",2021,"Improved water & sanitation",0.191613495077134,FALSE
+"TGO",2018,"Improved water & sanitation",0.144685645428761,FALSE
+"TGO",2021,"Improved water & sanitation",0.197259707361193,FALSE
+"SEN",2018,"Improved water & sanitation",0.571583635712214,FALSE
+"SEN",2021,"Improved water & sanitation",0.642058726090435,FALSE
+"GMB",2015,"Improved water & sanitation",0.38782441767347,FALSE
+"GMB",2020,"Improved water & sanitation",0.426466876615223,FALSE
+"GNB",2018,"Improved water & sanitation",0.319384871402466,FALSE
+"GNB",2021,"Improved water & sanitation",0.344931872680614,FALSE
+"MRT",2014,"Improved water & sanitation",0.409187041868377,FALSE
+"MRT",2019,"Improved water & sanitation",0.327492956817517,FALSE
+"MLI",2018,"Improved water & sanitation",0.378483898967791,FALSE
+"MLI",2021,"Improved water & sanitation",0.438194046266164,FALSE
+"GTM",2006,"Improved water & sanitation",0.729139027945455,FALSE
+"GTM",2014,"Improved water & sanitation",0.801894985262126,FALSE
+"GTM",2023,"Improved water & sanitation",0.851028681338174,FALSE
+"CIV",2018,"Improved water & sanitation",0.319979560219961,FALSE
+"CIV",2021,"Improved water & sanitation",0.361369351092532,FALSE
+"LKA",2012,"Improved water & sanitation",0.846061437886458,FALSE
+"LKA",2016,"Improved water & sanitation",0.842805386695257,FALSE
+"COL",2008,"Improved water & sanitation",0.851162232553091,FALSE
+"COL",2018,"Improved water & sanitation",0.897907259574899,FALSE
+"VNM",2010,"Improved water & sanitation",0.666338405871672,FALSE
+"VNM",2012,"Improved water & sanitation",0.698792479961363,FALSE
+"VNM",2014,"Improved water & sanitation",0.779388223318907,FALSE
+"VNM",2016,"Improved water & sanitation",0.798303229601589,FALSE
+"VNM",2018,"Improved water & sanitation",0.864704689798679,FALSE
+"VNM",2020,"Improved water & sanitation",0.916342537487432,FALSE
+"VNM",2022,"Improved water & sanitation",0.943953172283928,FALSE
+"IRN",2013,"Improved water & sanitation",0.942006511318132,FALSE
+"IRN",2014,"Improved water & sanitation",0.950331231041361,FALSE
+"IRN",2015,"Improved water & sanitation",0.962141576693485,FALSE
+"IRN",2016,"Improved water & sanitation",0.96447133611837,FALSE
+"IRN",2017,"Improved water & sanitation",0.967900358822511,FALSE
+"IRN",2018,"Improved water & sanitation",0.96481351054437,FALSE
+"IRN",2019,"Improved water & sanitation",0.968081994801832,FALSE
+"IRN",2020,"Improved water & sanitation",0.973448051580419,FALSE
+"BRA",2020,"Secondary education",0.868443230310905,FALSE
+"BRA",2021,"Secondary education",0.873844318434983,FALSE
+"TCD",2018,"Secondary education",0.370691476908498,TRUE
+"TCD",2022,"Secondary education",0,FALSE
+"MWI",2010,"Secondary education",0.523118002255663,FALSE
+"MWI",2016,"Secondary education",0.440122168214904,FALSE
+"MWI",2019,"Secondary education",0.477251518425692,FALSE
+"NER",2011,"Secondary education",0.0897725704498079,FALSE
+"NER",2014,"Secondary education",0.294157980817796,FALSE
+"NER",2018,"Secondary education",0.27581291328714,TRUE
+"NER",2021,"Secondary education",0.323562252685719,TRUE
+"ZMB",2015,"Secondary education",0.764288400361561,FALSE
+"ZMB",2022,"Secondary education",0.86078017323259,FALSE
+"BFA",2018,"Secondary education",0.440511768713477,FALSE
+"BFA",2021,"Secondary education",0.526364494583794,FALSE
+"BEN",2018,"Secondary education",0.503908199741212,FALSE
+"BEN",2021,"Secondary education",0.513089248876375,FALSE
+"TGO",2018,"Secondary education",0.677658192654895,FALSE
+"TGO",2021,"Secondary education",0.707409480085404,FALSE
+"SEN",2018,"Secondary education",0.616635423333945,FALSE
+"SEN",2021,"Secondary education",0.639403396454185,FALSE
+"GMB",2015,"Secondary education",0.701266559676118,FALSE
+"GMB",2020,"Secondary education",0.714813090835744,FALSE
+"GNB",2018,"Secondary education",0.606449614222002,FALSE
+"GNB",2021,"Secondary education",0.81043065793296,FALSE
+"MRT",2014,"Secondary education",0.457377153723794,FALSE
+"MRT",2019,"Secondary education",0.493973766944606,TRUE
+"MLI",2018,"Secondary education",0.353697285690818,FALSE
+"MLI",2021,"Secondary education",0.378034927739286,FALSE
+"GTM",2006,"Secondary education",0.642938016797323,FALSE
+"GTM",2014,"Secondary education",0.75168889186048,FALSE
+"GTM",2023,"Secondary education",0.833070684991862,FALSE
+"CIV",2018,"Secondary education",0.524311853624308,FALSE
+"CIV",2021,"Secondary education",0.573513800846754,FALSE
+"LKA",2012,"Secondary education",0.955859382809934,FALSE
+"LKA",2016,"Secondary education",0.962211184711664,FALSE
+"COL",2008,"Secondary education",0.916541793534405,FALSE
+"COL",2018,"Secondary education",0.945402884430389,FALSE
+"VNM",2010,"Secondary education",0.933496033360442,FALSE
+"VNM",2012,"Secondary education",0.946729291744547,FALSE
+"VNM",2014,"Secondary education",0.942953518945639,FALSE
+"VNM",2016,"Secondary education",0.948014365481737,FALSE
+"VNM",2018,"Secondary education",0.95384901514141,FALSE
+"VNM",2020,"Secondary education",0.961841000369086,FALSE
+"VNM",2022,"Secondary education",0.966179592569308,FALSE
+"IRN",2013,"Secondary education",NA,TRUE
+"IRN",2014,"Secondary education",0.951276131741003,FALSE
+"IRN",2015,"Secondary education",0.948600421749463,FALSE
+"IRN",2016,"Secondary education",0.947559460227557,FALSE
+"IRN",2017,"Secondary education",0.949253950112549,FALSE
+"IRN",2018,"Secondary education",0.955433182295964,FALSE
+"IRN",2019,"Secondary education",0.957198390993549,FALSE
+"IRN",2020,"Secondary education",0.959581238346137,FALSE
+"IND",2009,"Secondary education",0.808820962619932,FALSE
+"IND",2011,"Secondary education",0.824426132127869,FALSE
+"IND",2019,"Secondary education",NA,TRUE
+"IND",2020,"Secondary education",NA,TRUE
+"IND",2021,"Secondary education",NA,TRUE

@@ -1,0 +1,55 @@
+# Project D, cases: country case studies (RIF, t binned, SSP3-7.0,
+# 2025-2035 and 2040-2060). The case axis rows are zipped. The Senegal case
+# (Fig 12, 13) is the SEN electricity run of the regional project, not repeated
+# here:
+#   MWI  1-3m  x educ_com2_hh      educ_secondary_universal    3.00  Fig 16, 17
+#   BRA  1-3m  x urban             cash transfer (P5)     8.30  Fig 19, 20, Box 5
+
+seed: 123
+
+sample: {unit: hh}
+
+outcome: {name: welfare, currency: PPP}
+
+weather:
+  hist_years: [1991, 2020]
+
+model:
+  type: rif
+  fixed_effects: [year, loc_id_panel]
+  covariates: {method: lasso}
+
+sim:
+  hist_years: [1991, 2020]
+  future_periods: [[2025, 2035], [2040, 2060]]
+  ssps: [ssp3_7_0]
+  coef_uncertainty: false
+
+profiles:
+  weather:
+    t_3m: {t: {ref_period: [1, 3], form: binned, n_bins: 5, binning_method: Equal frequency}}
+  model:
+    rif_elec:  {type: rif, interactions: [electricity]}
+    rif_ed:    {type: rif, interactions: [educ_com2_hh]}
+    rif_urban: {type: rif, interactions: [urban]}
+  policy:
+    elec:      {infra: {electricity_universal: true}}
+    secondary: {education: {educ_secondary_universal: true}}
+    cash_p5:
+      sp:
+        transfer_amount_mode: pctile
+        transfer_pctile: 5
+        transfer_n_payments: 12
+        targeting: exante_poor
+        targeting_threshold_pct: 40
+        inclusion_error_pct: 30
+        exclusion_error_pct: 30
+
+axes:
+  country:      [MWI,       BRA]
+  weather:      [t_3m,      t_3m]
+  model:        [rif_ed,    rif_urban]
+  policy:       [secondary, cash_p5]
+  poverty_line: [3.0,       8.3]
+
+zip: [[country, weather, model, policy, poverty_line]]

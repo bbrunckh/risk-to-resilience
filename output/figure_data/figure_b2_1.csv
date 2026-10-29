@@ -1,0 +1,127 @@
+"code","variable","source","p10","p30","p50","p70","p90"
+"BEN","Temperature mean (°C)","Reference period (1991-2020)",24.916041,25.9,27.03333,27.8543716666667,29.0211505
+"BEN","Temperature mean (°C)","Survey (pooled waves)",25.19167,26.56046,27.65707,28.3581,29.7959
+"BFA","Temperature mean (°C)","Reference period (1991-2020)",25.88945,27.1481913333333,28.5028,30.4648523333333,31.899689
+"BFA","Temperature mean (°C)","Survey (pooled waves)",26.27976,27.6345,29.03304,30.74089,32.30375
+"BRA","Temperature mean (°C)","Reference period (1991-2020)",18.64028,21.7453193605016,23.62194,25.4907496020942,26.86593
+"BRA","Temperature mean (°C)","Survey (pooled waves)",18.86294,21.28807,22.97107,25.37033,26.88671
+"CIV","Temperature mean (°C)","Reference period (1991-2020)",24.4471493333333,25.18423,26.1892633333333,27.013796,28.1372593333333
+"CIV","Temperature mean (°C)","Survey (pooled waves)",24.66667,25.7001637956201,26.8539811459154,27.33357,28.367942212378
+"COL","Temperature mean (°C)","Reference period (1991-2020)",13.32831,17.0112,21.07441,24.6532529171598,26.9406117261905
+"COL","Temperature mean (°C)","Survey (pooled waves)",12.81725,15.36418,19.18968,23.9756,26.87452
+"GMB","Temperature mean (°C)","Reference period (1991-2020)",25.59931375,26.7002155384615,27.2000446153846,27.9272975,30.13348625
+"GMB","Temperature mean (°C)","Survey (pooled waves)",25.3543844262108,26.5803517449368,27.06667,27.43945,30.06037
+"GNB","Temperature mean (°C)","Reference period (1991-2020)",26,26.6,27.13333,27.8,29.3911668333333
+"GNB","Temperature mean (°C)","Survey (pooled waves)",26.16667,27.2,27.66667,28.23333,29.91732
+"GTM","Temperature mean (°C)","Reference period (1991-2020)",15.0899,18.22481,20.8202183333333,23.39234675,25.340654
+"GTM","Temperature mean (°C)","Survey (pooled waves)",14.82948,17.83513,19.64003,22.33673,25.38115
+"IND","Temperature mean (°C)","Reference period (1991-2020)",22.24575,26.03559,28.0229568539326,29.8777,31.78257
+"IND","Temperature mean (°C)","Survey (pooled waves)",22.15407,25.73022,27.72684,29.33363,31.4264
+"IRN","Temperature mean (°C)","Reference period (1991-2020)",2.83023,9.72367,16.65842,22.33244,28.36993
+"IRN","Temperature mean (°C)","Survey (pooled waves)",3.52653,9.95685,16.80806,22.99132,28.51068
+"LKA","Temperature mean (°C)","Reference period (1991-2020)",23.0783626666667,25.1875939215686,25.9,26.5732266887417,28.0420306666667
+"LKA","Temperature mean (°C)","Survey (pooled waves)",23.45817,25.5,26.15614,26.76667,28.28389
+"MLI","Temperature mean (°C)","Reference period (1991-2020)",25.5357,27.13611,28.8565625,30.4419526666667,32.182506
+"MLI","Temperature mean (°C)","Survey (pooled waves)",25.74773,27.19319,28.56505,30.22037,32.00642
+"MRT","Temperature mean (°C)","Reference period (1991-2020)",23.136696,26.30544,28.75504,30.392996,32.633429
+"MRT","Temperature mean (°C)","Survey (pooled waves)",23.50481,26.99411,29.10053,30.5285,32.72108
+"MWI","Temperature mean (°C)","Reference period (1991-2020)",18.27371375,20.4729755,21.7770211538462,23.1675565,25.1658285
+"MWI","Temperature mean (°C)","Survey (pooled waves)",18.37317,20.73098,21.89282,23.38947,25.26219
+"NER","Temperature mean (°C)","Reference period (1991-2020)",24.768414,28.0749016666667,29.74269,31.5725063333333,32.8471213333333
+"NER","Temperature mean (°C)","Survey (pooled waves)",24.06014,28.23333,29.84448,31.60277,32.93385
+"SEN","Temperature mean (°C)","Reference period (1991-2020)",25.3204,26.836785,27.46667,28.3334095,30.78808
+"SEN","Temperature mean (°C)","Survey (pooled waves)",24.63923,26.75722,27.60155,28.16667,30.42181
+"TCD","Temperature mean (°C)","Reference period (1991-2020)",23.9561788333333,26.2852765,27.8650183333333,30.190664,32.7111766666667
+"TCD","Temperature mean (°C)","Survey (pooled waves)",24.64029,26.80256,27.98972,29.96359,32.70452
+"TGO","Temperature mean (°C)","Reference period (1991-2020)",24.384618,25.3,26.7583222727273,28,29.6229725
+"TGO","Temperature mean (°C)","Survey (pooled waves)",24.80922,25.80874,26.8842,28.3851284252157,29.43746
+"TJK","Temperature mean (°C)","Reference period (1991-2020)",0.07651,5.46667,12.08012,18.96766,24.73902
+"TJK","Temperature mean (°C)","Survey (pooled waves)",2.27616,7.66611,14.16902,20.33333,25.92537
+"VNM","Temperature mean (°C)","Reference period (1991-2020)",19.2280586666667,23.915691,25.75092,26.7960853333333,28.36312
+"VNM","Temperature mean (°C)","Survey (pooled waves)",19.13333,24.4653539887809,26.1200944993136,27.0456446567352,28.7
+"ZMB","Temperature mean (°C)","Reference period (1991-2020)",18.29193,19.3437475,20.01802,20.76667,22.27107
+"ZMB","Temperature mean (°C)","Survey (pooled waves)",18.1,19.56667,20.4274617726161,21.1111700391988,22.4322962936997
+"BEN","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",26.7530106666667,29.66667,30.33333,30.66667,30.66667
+"BEN","Tropical nights (Tmin >20°C)","Survey (pooled waves)",27.6795,29.66667,30.33333,30.66667,30.66667
+"BFA","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",20.9608585,27.071018,30,30.66667,30.66667
+"BFA","Tropical nights (Tmin >20°C)","Survey (pooled waves)",21.51103,27.38357,30.33333,30.66667,30.66667
+"BRA","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",0.323949743716116,6.12363011392406,17.41121,28.8613157182236,30.33333
+"BRA","Tropical nights (Tmin >20°C)","Survey (pooled waves)",0.36292,4.59897,12.96013,25.64686,30.33333
+"CIV","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",26.6673061666667,29.66667,30.33333,30.66667,30.66667
+"CIV","Tropical nights (Tmin >20°C)","Survey (pooled waves)",28.13973,29.66667,30.33333,30.66667,30.66667
+"COL","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",0,0,3.78347725293133,28.46528,30.66667
+"COL","Tropical nights (Tmin >20°C)","Survey (pooled waves)",0,0,0,23.5309,30.66667
+"GMB","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",15.641427,23.1934633333333,28.869735,30.66667,30.66667
+"GMB","Tropical nights (Tmin >20°C)","Survey (pooled waves)",19.00038,26.98897,30.05968,30.66667,30.66667
+"GNB","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",24.401126,28.993988,30.33333,30.66667,30.66667
+"GNB","Tropical nights (Tmin >20°C)","Survey (pooled waves)",24.74907,29.31846,30.33333,30.66667,30.66667
+"GTM","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",0,0,0.837834534883724,15.6694161818182,29.7293127272727
+"GTM","Tropical nights (Tmin >20°C)","Survey (pooled waves)",0,0,0.04958,7.02848,29.54064
+"IND","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",5.42465,17.92177,26.45901,30.33333,30.66667
+"IND","Tropical nights (Tmin >20°C)","Survey (pooled waves)",5.35218,17.27468,26.42718,30.33333,30.66667
+"IRN","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",0,0,0.11432,4.4955,20.05578
+"IRN","Tropical nights (Tmin >20°C)","Survey (pooled waves)",0,0,0.32344,6.10898,20.6184551126423
+"LKA","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",15.8954962264151,29.0453924210526,30.33324,30.66667,30.66667
+"LKA","Tropical nights (Tmin >20°C)","Survey (pooled waves)",19,29.66667,30.33333,30.66667,30.66667
+"MLI","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",13.66667,22.33333,27.33333,30.22014,30.66667
+"MLI","Tropical nights (Tmin >20°C)","Survey (pooled waves)",14.52754,23.56676,29.19521,30.66667,30.66667
+"MRT","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",6.06619,15.33333,21.66667,27,30.33333
+"MRT","Tropical nights (Tmin >20°C)","Survey (pooled waves)",6.66667,15.66667,21.33333,27.33333,30.33333
+"MWI","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",0,0,2.07228,11.043635,26.80955175
+"MWI","Tropical nights (Tmin >20°C)","Survey (pooled waves)",0,0.10637,3.78259,11.91775,27.80718
+"NER","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",6,20.137945,27.66667,30.33333,30.66667
+"NER","Tropical nights (Tmin >20°C)","Survey (pooled waves)",4.80781,20.33326,28.66667,30.3595,30.66667
+"SEN","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",10.332287,21.337322,28.30364,30.33333,30.66667
+"SEN","Tropical nights (Tmin >20°C)","Survey (pooled waves)",8.14041271002983,17,29.37942,30.33333,30.66667
+"TCD","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",3.66667,11.3060883333333,22.8934416666667,30.33333,30.66667
+"TCD","Tropical nights (Tmin >20°C)","Survey (pooled waves)",4.49192935787543,13.8257031914939,26.13355,30.33333,30.66667
+"TGO","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",25.193832,29.618692,30.33333,30.66667,30.66667
+"TGO","Tropical nights (Tmin >20°C)","Survey (pooled waves)",28.33333,29.66667,30.33333,30.66667,30.66667
+"TJK","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",0,0,0,0.15662,7.66667
+"TJK","Tropical nights (Tmin >20°C)","Survey (pooled waves)",0,0,0,0.700905612846667,10.62697
+"VNM","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",2.880658,20.99057,29.300715,30.6635396666667,30.66667
+"VNM","Tropical nights (Tmin >20°C)","Survey (pooled waves)",2.66667,22.0994283461981,29.66667,30.66667,30.66667
+"ZMB","Tropical nights (Tmin >20°C)","Reference period (1991-2020)",0,0,0,0,2
+"ZMB","Tropical nights (Tmin >20°C)","Survey (pooled waves)",0,0,0,0,4.30405
+"BEN","Days max >35°C","Reference period (1991-2020)",0,0,0,3.33732,20.66667
+"BEN","Days max >35°C","Survey (pooled waves)",0,0,0.66667,9.90482,24.81259
+"BFA","Days max >35°C","Reference period (1991-2020)",0,5.320713,16.6761258333333,25.1769653333333,28.66667
+"BFA","Days max >35°C","Survey (pooled waves)",0.32816,6.34835,18.9877,25.32084,28.88547
+"BRA","Days max >35°C","Reference period (1991-2020)",0,0,0.0112126470588235,0.30505,2.28074
+"BRA","Days max >35°C","Survey (pooled waves)",0,0.0013,0.04173,0.64465,2.8138
+"CIV","Days max >35°C","Reference period (1991-2020)",0,0,0,1,12.66667
+"CIV","Days max >35°C","Survey (pooled waves)",0,0,0,2.69208,14.28286
+"COL","Days max >35°C","Reference period (1991-2020)",0,0,0,0,0.15088
+"COL","Days max >35°C","Survey (pooled waves)",0,0,0,0,0.02381
+"GMB","Days max >35°C","Reference period (1991-2020)",0,1.10946,6.52152785714286,15.13662225,26.2464117272727
+"GMB","Days max >35°C","Survey (pooled waves)",0,0,1.39407,9.78894,24
+"GNB","Days max >35°C","Reference period (1991-2020)",0,0,1.02921,13.914814,26.66667
+"GNB","Days max >35°C","Survey (pooled waves)",0,0.26618,7,18.66667,28.63411
+"GTM","Days max >35°C","Reference period (1991-2020)",0,0,0,0,0.0421808524590157
+"GTM","Days max >35°C","Survey (pooled waves)",0,0,0,0,0.01008
+"IND","Days max >35°C","Reference period (1991-2020)",0,4.32564225,11.957064511041,17.90988,24.56416
+"IND","Days max >35°C","Survey (pooled waves)",0,3.23233,9.85667353327418,16.37755,23.39571
+"IRN","Days max >35°C","Reference period (1991-2020)",0,0,0.00273,2.39889,15.93574
+"IRN","Days max >35°C","Survey (pooled waves)",0,0,0.0408,3.62972,16.27438
+"LKA","Days max >35°C","Reference period (1991-2020)",0,0,0,0.00063,1.653727
+"LKA","Days max >35°C","Survey (pooled waves)",0,0,0,0.00058,2
+"MLI","Days max >35°C","Reference period (1991-2020)",0,10.33333,18.66667,24.6723475,28.902937
+"MLI","Days max >35°C","Survey (pooled waves)",0,7.03555,16.66667,24,28.66667
+"MRT","Days max >35°C","Reference period (1991-2020)",2.33333,9.66895,17.983615,22.63364,28.32227
+"MRT","Days max >35°C","Survey (pooled waves)",1,12.6295,19.32032,23.9985290193898,28.33333
+"MWI","Days max >35°C","Reference period (1991-2020)",0,0,0,0,0.413573000000002
+"MWI","Days max >35°C","Survey (pooled waves)",0,0,0,0,0.633487008435632
+"NER","Days max >35°C","Reference period (1991-2020)",7,15,21.2995866666667,26.095247,29.70355
+"NER","Days max >35°C","Survey (pooled waves)",6.5837,15.99903,22.65003,27.57584,29.66667
+"SEN","Days max >35°C","Reference period (1991-2020)",0,2.63701,11.160475,20,27.66667
+"SEN","Days max >35°C","Survey (pooled waves)",0,2.92528,9.7888,16.96403,25.66667
+"TCD","Days max >35°C","Reference period (1991-2020)",2.82310233333333,9.66667,15.0552808333333,21.33333,28.57556
+"TCD","Days max >35°C","Survey (pooled waves)",5.88426,10.92592,15.81988,20.50767,28.15947
+"TGO","Days max >35°C","Reference period (1991-2020)",0,0,0,6.38785333333333,23.66667
+"TGO","Days max >35°C","Survey (pooled waves)",0,0,0,3.36106,24.7815
+"TJK","Days max >35°C","Reference period (1991-2020)",0,0,0,0,6.44956
+"TJK","Days max >35°C","Survey (pooled waves)",0,0,0,1,9.74706
+"VNM","Days max >35°C","Reference period (1991-2020)",0,0,0,0.07281,2.85482066666667
+"VNM","Days max >35°C","Survey (pooled waves)",0,0,0,0.33333,4.78332
+"ZMB","Days max >35°C","Reference period (1991-2020)",0,0,0,0,0
+"ZMB","Days max >35°C","Survey (pooled waves)",0,0,0,0,0

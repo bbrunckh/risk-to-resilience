@@ -1,0 +1,15 @@
+# Four batch projects. Select one with Sys.setenv(TAR_PROJECT = "<name>") or
+# the TAR_PROJECT environment variable; batch/_targets.R reads the same name to
+# find the spec and writes results/<name>/.
+descriptives:
+  script: batch/_targets.R
+  store: _targets/descriptives
+models:
+  script: batch/_targets.R
+  store: _targets/models
+regional:
+  script: batch/_targets.R
+  store: _targets/regional
+cases:
+  script: batch/_targets.R
+  store: _targets/cases

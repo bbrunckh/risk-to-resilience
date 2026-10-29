@@ -1,0 +1,61 @@
+"scenario","weather_year","decile","channel","pct"
+"Historical (1991-2020)",1998,1,"Main effect (covariate shift)",14.2917310920054
+"Historical (1991-2020)",1998,1,"Resilience: repositioning",0.000146626765995528
+"Historical (1991-2020)",1998,1,"Resilience: interaction",0.565852550059232
+"Historical (1991-2020)",1998,2,"Main effect (covariate shift)",10.442554803754
+"Historical (1991-2020)",1998,2,"Resilience: repositioning",-0.0375390442292622
+"Historical (1991-2020)",1998,2,"Resilience: interaction",0.77585757029468
+"Historical (1991-2020)",1998,3,"Main effect (covariate shift)",9.49315901298478
+"Historical (1991-2020)",1998,3,"Resilience: repositioning",-0.0701081954814442
+"Historical (1991-2020)",1998,3,"Resilience: interaction",0.244046530934039
+"Historical (1991-2020)",1998,4,"Main effect (covariate shift)",7.26350351247897
+"Historical (1991-2020)",1998,4,"Resilience: repositioning",0.0304778079904588
+"Historical (1991-2020)",1998,4,"Resilience: interaction",0.298786901953707
+"Historical (1991-2020)",1998,5,"Main effect (covariate shift)",4.98336734601377
+"Historical (1991-2020)",1998,5,"Resilience: repositioning",0.08217335197791
+"Historical (1991-2020)",1998,5,"Resilience: interaction",0.247228488410856
+"Historical (1991-2020)",1998,6,"Main effect (covariate shift)",3.337297846152
+"Historical (1991-2020)",1998,6,"Resilience: repositioning",0.0937799800553751
+"Historical (1991-2020)",1998,6,"Resilience: interaction",0.0478777038702694
+"Historical (1991-2020)",1998,7,"Main effect (covariate shift)",2.05368385035867
+"Historical (1991-2020)",1998,7,"Resilience: repositioning",0.0146873353141785
+"Historical (1991-2020)",1998,7,"Resilience: interaction",0.0247268372143949
+"Historical (1991-2020)",1998,8,"Main effect (covariate shift)",1.28861173520112
+"Historical (1991-2020)",1998,8,"Resilience: repositioning",0.023342138655269
+"Historical (1991-2020)",1998,8,"Resilience: interaction",0.0423244899044883
+"Historical (1991-2020)",1998,9,"Main effect (covariate shift)",0.88355283559638
+"Historical (1991-2020)",1998,9,"Resilience: repositioning",0.00123548160730902
+"Historical (1991-2020)",1998,9,"Resilience: interaction",-0.0130004230999847
+"Historical (1991-2020)",1998,10,"Main effect (covariate shift)",0.357410645216949
+"Historical (1991-2020)",1998,10,"Resilience: repositioning",0.000995291196770332
+"Historical (1991-2020)",1998,10,"Resilience: interaction",-0.0132437316601064
+"SSP3 2050 (2040-2060)",1998,1,"Main effect (covariate shift)",14.2917310920054
+"SSP3 2050 (2040-2060)",1998,1,"Resilience: repositioning",0.0000656045871627597
+"SSP3 2050 (2040-2060)",1998,1,"Resilience: interaction",2.8652808301612
+"SSP3 2050 (2040-2060)",1998,2,"Main effect (covariate shift)",10.442554803754
+"SSP3 2050 (2040-2060)",1998,2,"Resilience: repositioning",-0.0164893086055162
+"SSP3 2050 (2040-2060)",1998,2,"Resilience: interaction",3.04824704236601
+"SSP3 2050 (2040-2060)",1998,3,"Main effect (covariate shift)",9.49315901298478
+"SSP3 2050 (2040-2060)",1998,3,"Resilience: repositioning",0.334057261838772
+"SSP3 2050 (2040-2060)",1998,3,"Resilience: interaction",2.26853053638707
+"SSP3 2050 (2040-2060)",1998,4,"Main effect (covariate shift)",7.26350351247897
+"SSP3 2050 (2040-2060)",1998,4,"Resilience: repositioning",0.363996118926346
+"SSP3 2050 (2040-2060)",1998,4,"Resilience: interaction",1.6289088421541
+"SSP3 2050 (2040-2060)",1998,5,"Main effect (covariate shift)",4.98336734601377
+"SSP3 2050 (2040-2060)",1998,5,"Resilience: repositioning",0.138860543164276
+"SSP3 2050 (2040-2060)",1998,5,"Resilience: interaction",1.30458130151223
+"SSP3 2050 (2040-2060)",1998,6,"Main effect (covariate shift)",3.337297846152
+"SSP3 2050 (2040-2060)",1998,6,"Resilience: repositioning",0.0608676306786515
+"SSP3 2050 (2040-2060)",1998,6,"Resilience: interaction",0.984222553536451
+"SSP3 2050 (2040-2060)",1998,7,"Main effect (covariate shift)",2.05368385035867
+"SSP3 2050 (2040-2060)",1998,7,"Resilience: repositioning",0.0325246601656337
+"SSP3 2050 (2040-2060)",1998,7,"Resilience: interaction",0.633072006428703
+"SSP3 2050 (2040-2060)",1998,8,"Main effect (covariate shift)",1.28861173520112
+"SSP3 2050 (2040-2060)",1998,8,"Resilience: repositioning",0.0573957428225969
+"SSP3 2050 (2040-2060)",1998,8,"Resilience: interaction",0.263564940331551
+"SSP3 2050 (2040-2060)",1998,9,"Main effect (covariate shift)",0.88355283559638
+"SSP3 2050 (2040-2060)",1998,9,"Resilience: repositioning",0.00374215439986614
+"SSP3 2050 (2040-2060)",1998,9,"Resilience: interaction",0.18197889910061
+"SSP3 2050 (2040-2060)",1998,10,"Main effect (covariate shift)",0.357410645216949
+"SSP3 2050 (2040-2060)",1998,10,"Resilience: repositioning",0.00817407759781119
+"SSP3 2050 (2040-2060)",1998,10,"Resilience: interaction",0.0592415901119026

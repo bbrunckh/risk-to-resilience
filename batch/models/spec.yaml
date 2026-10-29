@@ -1,0 +1,129 @@
+# Project B, models: Step 1 fits only, 21 countries x 31 fits.
+#   24 linear fits: t and spei6 x reference period 1/3/6/12 months x
+#                   equal-frequency bins / continuous / custom absolute bins
+#                   (Fig 6, C1 to C4)
+#    4 linear fits: t 1-3m binned x urban, electricity, imp_wat_san_rec,
+#                   educ_com2_hh (Fig 7)
+#    3 RIF fits:    t, spei6, t x electricity, 1-3m binned (Fig 8, 9, C6 to C8)
+# The weather and model axes are zipped: row k of one goes with row k of the
+# other.
+
+seed: 123
+
+sample: {unit: hh}
+
+outcome: {name: welfare, currency: PPP}
+
+weather:
+  hist_years: [1991, 2020]
+
+model:
+  type: linear
+  fixed_effects: [year, loc_id_panel]
+  covariates: {method: lasso}
+
+profiles:
+  weather:
+    # t: equal-frequency bins (5), continuous, custom bins 25/26/27/28 C
+    t1_bin:   {t: {ref_period: [1, 1],  form: binned, n_bins: 5, binning_method: Equal frequency}}
+    t3_bin:   {t: {ref_period: [1, 3],  form: binned, n_bins: 5, binning_method: Equal frequency}}
+    t6_bin:   {t: {ref_period: [1, 6],  form: binned, n_bins: 5, binning_method: Equal frequency}}
+    t12_bin:  {t: {ref_period: [1, 12], form: binned, n_bins: 5, binning_method: Equal frequency}}
+    t1_cont:  {t: {ref_period: [1, 1],  form: continuous}}
+    t3_cont:  {t: {ref_period: [1, 3],  form: continuous}}
+    t6_cont:  {t: {ref_period: [1, 6],  form: continuous}}
+    t12_cont: {t: {ref_period: [1, 12], form: continuous}}
+    t1_cust:  {t: {ref_period: [1, 1],  form: binned, binning_method: Custom, custom_breaks: [25, 26, 27, 28]}}
+    t3_cust:  {t: {ref_period: [1, 3],  form: binned, binning_method: Custom, custom_breaks: [25, 26, 27, 28]}}
+    t6_cust:  {t: {ref_period: [1, 6],  form: binned, binning_method: Custom, custom_breaks: [25, 26, 27, 28]}}
+    t12_cust: {t: {ref_period: [1, 12], form: binned, binning_method: Custom, custom_breaks: [25, 26, 27, 28]}}
+    # spei6: equal-frequency bins, continuous, custom bins -1/-0.5/0/0.5
+    spei1_bin:   {spei6: {ref_period: [1, 1],  form: binned, n_bins: 5, binning_method: Equal frequency}}
+    spei3_bin:   {spei6: {ref_period: [1, 3],  form: binned, n_bins: 5, binning_method: Equal frequency}}
+    spei6_bin:   {spei6: {ref_period: [1, 6],  form: binned, n_bins: 5, binning_method: Equal frequency}}
+    spei12_bin:  {spei6: {ref_period: [1, 12], form: binned, n_bins: 5, binning_method: Equal frequency}}
+    spei1_cont:  {spei6: {ref_period: [1, 1],  form: continuous}}
+    spei3_cont:  {spei6: {ref_period: [1, 3],  form: continuous}}
+    spei6_cont:  {spei6: {ref_period: [1, 6],  form: continuous}}
+    spei12_cont: {spei6: {ref_period: [1, 12], form: continuous}}
+    spei1_cust:  {spei6: {ref_period: [1, 1],  form: binned, binning_method: Custom, custom_breaks: [-1, -0.5, 0, 0.5]}}
+    spei3_cust:  {spei6: {ref_period: [1, 3],  form: binned, binning_method: Custom, custom_breaks: [-1, -0.5, 0, 0.5]}}
+    spei6_cust:  {spei6: {ref_period: [1, 6],  form: binned, binning_method: Custom, custom_breaks: [-1, -0.5, 0, 0.5]}}
+    spei12_cust: {spei6: {ref_period: [1, 12], form: binned, binning_method: Custom, custom_breaks: [-1, -0.5, 0, 0.5]}}
+  model:
+    lin:       {type: linear}
+    lin_urban: {type: linear, interactions: [urban]}
+    lin_elec:  {type: linear, interactions: [electricity]}
+    lin_ws:    {type: linear, interactions: [imp_wat_san_rec]}
+    lin_ed:    {type: linear, interactions: [educ_com2_hh]}
+    rif:       {type: rif}
+    rif_elec:  {type: rif, interactions: [electricity]}
+
+axes:
+  country: [BEN, BFA, BRA, CIV, COL, GMB, GNB, GTM, IND, IRN, LKA, MLI, MRT, MWI, NER, SEN, TCD, TGO, TJK, VNM, ZMB]
+  weather:
+    - t1_bin
+    - t3_bin
+    - t6_bin
+    - t12_bin
+    - t1_cont
+    - t3_cont
+    - t6_cont
+    - t12_cont
+    - t1_cust
+    - t3_cust
+    - t6_cust
+    - t12_cust
+    - spei1_bin
+    - spei3_bin
+    - spei6_bin
+    - spei12_bin
+    - spei1_cont
+    - spei3_cont
+    - spei6_cont
+    - spei12_cont
+    - spei1_cust
+    - spei3_cust
+    - spei6_cust
+    - spei12_cust
+    - t3_bin
+    - t3_bin
+    - t3_bin
+    - t3_bin
+    - t3_bin
+    - spei3_bin
+    - t3_bin
+  model:
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin
+    - lin_urban
+    - lin_elec
+    - lin_ws
+    - lin_ed
+    - rif
+    - rif
+    - rif_elec
+
+zip: [[weather, model]]
